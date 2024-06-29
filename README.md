@@ -1,4 +1,4 @@
-<h3 align="center"> Learn C Programming </h3>
+<h3 align="center"> Learn Python </h3>
 <h5> 1 : Variables & Data Types  
 </h5>
 
