@@ -1,11 +1,4 @@
-<h3 align="center"> Learn Python </h3>
-<h5> 1 : Variables & Data Types  
-</h5>
+<h2 align="center"> Learn Python </h2>
+<h6> 1 : Variables & Data Types  </h6>
 
-- First Program
-- Variable
-- Data Type
-- Operator
-- Type Conversion
-- Input
-- Practice
+
