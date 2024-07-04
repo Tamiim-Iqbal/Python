@@ -4,8 +4,8 @@ price = 10.5
 rich = False
 status = None
 
-print(type(name))  # Output: <class 'str'>
-print(type(age))  # Output: <class 'int'>
-print(type(price))  # Output: <class 'float'>
-print(type(rich))  # Output: <class 'float'>
-print(type(status))  # Output: <class 'NoneType'>
+print(type(name))                            #output: <class 'str'>
+print(type(age))                             #output: <class 'int'>
+print(type(price))                           #output: <class 'float'>
+print(type(rich))                            #output: <class 'float'>
+print(type(status))                          #output: <class 'NoneType'>
