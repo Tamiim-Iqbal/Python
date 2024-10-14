@@ -13,7 +13,7 @@
 
 <h6>5. Loops in Python - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/5-Loops-in-Python-11ebf6be67d48022b733ce346c608467?pvs=4">Notes</a> </h6>
 
-<h6>Function & Recursion in Python - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/6-Functions-Recursion-in-Python-11fbf6be67d480608ed3d3c9b6e053d4?pvs=4">Notes</a> </h6>
+<h6>6. Function & Recursion in Python - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/6-Functions-Recursion-in-Python-11fbf6be67d480608ed3d3c9b6e053d4?pvs=4">Notes</a> </h6>
 
 <br>
 
