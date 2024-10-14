@@ -54,6 +54,11 @@
     - practice
     - pass
     - practice
-
+6. **Function & Recursion in Python**
+    - function
+    - default parameter
+    - practice
+    - recursion
+    - practice
 
 
