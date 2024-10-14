@@ -9,3 +9,4 @@
 <h6>4. Dictionary & Set in Python - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/4-Dictionary-Set-in-Python-74e85ebb55c94d71970ab4f2059e0982?pvs=4">Notes</a> </h6>
  
 
+<h6>5. Loops in Python - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/5-Loops-in-Python-11ebf6be67d48022b733ce346c608467?pvs=4">Notes</a> </h6>
