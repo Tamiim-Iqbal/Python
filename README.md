@@ -25,40 +25,28 @@
     - data type 
     - operator
     - type conversion
-    - practice
 2. **Strings & Conditional Statements**
     - string
     - string function
-    - practice
     - conditional statement
-    - practice
 3. **List & Tuple in Python**
     - list
     - list methods
     - tuple
     - tuple methods
-    - practice
 4. **Dictionary & Set in Python**
     - dictionary
     - nested dictionary
     - dictionary methods
     - set
-    - practice
 5. **Loops in Python**
     - while
-    - practice
     - break, continue
     - for 
-    - practice
     - range
-    - practice
     - pass
-    - practice
 6. **Function & Recursion in Python**
     - function
     - default parameter
-    - practice
     - recursion
-    - practice
-
 
