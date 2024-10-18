@@ -45,8 +45,10 @@
     - for 
     - range
     - pass
-6. **Function & Recursion in Python**
+6. **Function in Python**
     - function
     - default parameter
-    - recursion
+    - kargs
+    - global
+    - built-in
 
