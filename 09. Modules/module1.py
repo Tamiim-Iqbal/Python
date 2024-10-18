@@ -1,4 +1,3 @@
-
 def double_it(num):
     num *= 2
     return num
